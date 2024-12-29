@@ -1,0 +1,384 @@
+{
+    "id": "qjbth2",
+    "categories": [
+        "atlas",
+        "moss",
+        "atlas"
+    ],
+    "name": "Moss",
+    "tags": [
+        "soil",
+        "leaves",
+        "grey",
+        "roof",
+        "lichen",
+        "nordic",
+        "moss",
+        "white",
+        "archviz"
+    ],
+    "environment": {
+        "biome": "mediterranean-forest",
+        "region": "Scandinavia"
+    },
+    "averageColor": "#808080",
+    "previews": {
+        "images": [
+            {
+                "contentLength": 262475,
+                "resolution": "720x720",
+                "uri": "qjbth2_Thumb_Retina.png",
+                "tags": [
+                    "thumb",
+                    "retina"
+                ]
+            },
+            {
+                "contentLength": 1034124,
+                "resolution": "1760x1760",
+                "uri": "qjbth2_Preview_Retina.png",
+                "tags": [
+                    "preview",
+                    "retina"
+                ]
+            }
+        ],
+        "relativeSize": "1x1"
+    },
+    "properties": [],
+    "meta": [
+        {
+            "key": "scanArea",
+            "name": "Scan Area",
+            "value": "0.25x0.25 m"
+        },
+        {
+            "key": "height",
+            "name": "Height",
+            "value": "0.005 m"
+        },
+        {
+            "key": "tileable",
+            "name": "Tileable",
+            "value": false
+        },
+        {
+            "key": "texelDensity",
+            "name": "Texel Density",
+            "value": "16384 px/m"
+        },
+        {
+            "key": "calibration",
+            "name": "Calibration",
+            "value": "X-Rite ColorChecker Classic"
+        },
+        {
+            "key": "scanner",
+            "name": "Scanner",
+            "value": "SEM-MKII 4-3"
+        }
+    ],
+    "points": 1,
+    "references": [],
+    "version": 2,
+    "maps": [
+        {
+            "type": "albedo",
+            "name": "Albedo",
+            "minIntensity": 157,
+            "maxIntensity": 189,
+            "averageColor": "#B8AF9A",
+            "colorSpace": "sRGB",
+            "physicalSize": "0.25x0.25",
+            "resolution": "4096x4096",
+            "mimeType": "image/x-exr",
+            "bitDepth": 16,
+            "uri": "qjbth2_4K_Albedo.exr"
+        },
+        {
+            "type": "albedo",
+            "name": "Albedo",
+            "minIntensity": 157,
+            "maxIntensity": 189,
+            "averageColor": "#B8AF9A",
+            "colorSpace": "sRGB",
+            "physicalSize": "0.25x0.25",
+            "resolution": "4096x4096",
+            "mimeType": "image/jpeg",
+            "bitDepth": 8,
+            "uri": "qjbth2_4K_Albedo.jpg"
+        },
+        {
+            "type": "displacement",
+            "name": "Displacement",
+            "minIntensity": 127,
+            "maxIntensity": 150,
+            "averageColor": "#898989",
+            "colorSpace": "Linear",
+            "physicalSize": "0.25x0.25",
+            "resolution": "4096x4096",
+            "mimeType": "image/x-exr",
+            "bitDepth": 32,
+            "uri": "qjbth2_4K_Displacement.exr"
+        },
+        {
+            "type": "displacement",
+            "name": "Displacement",
+            "minIntensity": 127,
+            "maxIntensity": 150,
+            "averageColor": "#898989",
+            "colorSpace": "Linear",
+            "physicalSize": "0.25x0.25",
+            "resolution": "4096x4096",
+            "mimeType": "image/jpeg",
+            "bitDepth": 8,
+            "uri": "qjbth2_4K_Displacement.jpg"
+        },
+        {
+            "type": "bump",
+            "name": "Bump",
+            "minIntensity": 125,
+            "maxIntensity": 136,
+            "averageColor": "#818181",
+            "colorSpace": "Linear",
+            "physicalSize": "0.25x0.25",
+            "resolution": "4096x4096",
+            "mimeType": "image/x-exr",
+            "bitDepth": 32,
+            "uri": "qjbth2_4K_Bump.exr"
+        },
+        {
+            "type": "bump",
+            "name": "Bump",
+            "minIntensity": 125,
+            "maxIntensity": 136,
+            "averageColor": "#818181",
+            "colorSpace": "Linear",
+            "physicalSize": "0.25x0.25",
+            "resolution": "4096x4096",
+            "mimeType": "image/jpeg",
+            "bitDepth": 8,
+            "uri": "qjbth2_4K_Bump.jpg"
+        },
+        {
+            "type": "gloss",
+            "name": "Gloss",
+            "minIntensity": 15,
+            "maxIntensity": 38,
+            "averageColor": "#151515",
+            "colorSpace": "Linear",
+            "physicalSize": "0.25x0.25",
+            "resolution": "4096x4096",
+            "mimeType": "image/x-exr",
+            "bitDepth": 32,
+            "uri": "qjbth2_4K_Gloss.exr"
+        },
+        {
+            "type": "gloss",
+            "name": "Gloss",
+            "minIntensity": 15,
+            "maxIntensity": 38,
+            "averageColor": "#151515",
+            "colorSpace": "Linear",
+            "physicalSize": "0.25x0.25",
+            "resolution": "4096x4096",
+            "mimeType": "image/jpeg",
+            "bitDepth": 8,
+            "uri": "qjbth2_4K_Gloss.jpg"
+        },
+        {
+            "type": "normal",
+            "name": "Normal",
+            "minIntensity": 129,
+            "maxIntensity": 152,
+            "averageColor": "#807FFE",
+            "colorSpace": "Linear",
+            "physicalSize": "0.25x0.25",
+            "resolution": "4096x4096",
+            "mimeType": "image/x-exr",
+            "bitDepth": 16,
+            "uri": "qjbth2_4K_Normal.exr"
+        },
+        {
+            "type": "normal",
+            "name": "Normal",
+            "minIntensity": 129,
+            "maxIntensity": 152,
+            "averageColor": "#807FFE",
+            "colorSpace": "Linear",
+            "physicalSize": "0.25x0.25",
+            "resolution": "4096x4096",
+            "mimeType": "image/jpeg",
+            "bitDepth": 8,
+            "uri": "qjbth2_4K_Normal.jpg"
+        },
+        {
+            "type": "roughness",
+            "name": "Roughness",
+            "minIntensity": 212,
+            "maxIntensity": 234,
+            "averageColor": "#E4E4E4",
+            "colorSpace": "Linear",
+            "physicalSize": "0.25x0.25",
+            "resolution": "4096x4096",
+            "mimeType": "image/x-exr",
+            "bitDepth": 32,
+            "uri": "qjbth2_4K_Roughness.exr"
+        },
+        {
+            "type": "roughness",
+            "name": "Roughness",
+            "minIntensity": 212,
+            "maxIntensity": 234,
+            "averageColor": "#E4E4E4",
+            "colorSpace": "Linear",
+            "physicalSize": "0.25x0.25",
+            "resolution": "4096x4096",
+            "mimeType": "image/jpeg",
+            "bitDepth": 8,
+            "uri": "qjbth2_4K_Roughness.jpg"
+        },
+        {
+            "type": "specular",
+            "name": "Specular",
+            "minIntensity": 53,
+            "maxIntensity": 53,
+            "averageColor": "#353535",
+            "colorSpace": "sRGB",
+            "physicalSize": "0.25x0.25",
+            "resolution": "4096x4096",
+            "mimeType": "image/x-exr",
+            "bitDepth": 16,
+            "uri": "qjbth2_4K_Specular.exr"
+        },
+        {
+            "type": "specular",
+            "name": "Specular",
+            "minIntensity": 53,
+            "maxIntensity": 53,
+            "averageColor": "#353535",
+            "colorSpace": "sRGB",
+            "physicalSize": "0.25x0.25",
+            "resolution": "4096x4096",
+            "mimeType": "image/jpeg",
+            "bitDepth": 8,
+            "uri": "qjbth2_4K_Specular.jpg"
+        },
+        {
+            "type": "translucency",
+            "name": "Translucency",
+            "minIntensity": 93,
+            "maxIntensity": 130,
+            "averageColor": "#776E69",
+            "colorSpace": "sRGB",
+            "physicalSize": "0.25x0.25",
+            "resolution": "4096x4096",
+            "mimeType": "image/x-exr",
+            "bitDepth": 16,
+            "uri": "qjbth2_4K_Translucency.exr"
+        },
+        {
+            "type": "translucency",
+            "name": "Translucency",
+            "minIntensity": 93,
+            "maxIntensity": 130,
+            "averageColor": "#776E69",
+            "colorSpace": "sRGB",
+            "physicalSize": "0.25x0.25",
+            "resolution": "4096x4096",
+            "mimeType": "image/jpeg",
+            "bitDepth": 8,
+            "uri": "qjbth2_4K_Translucency.jpg"
+        },
+        {
+            "type": "opacity",
+            "name": "Opacity",
+            "minIntensity": 0,
+            "maxIntensity": 255,
+            "averageColor": "#0E0E0E",
+            "colorSpace": "Linear",
+            "physicalSize": "0.25x0.25",
+            "resolution": "4096x4096",
+            "mimeType": "image/x-exr",
+            "bitDepth": 32,
+            "uri": "qjbth2_4K_Opacity.exr"
+        },
+        {
+            "type": "opacity",
+            "name": "Opacity",
+            "minIntensity": 0,
+            "maxIntensity": 255,
+            "averageColor": "#0E0E0E",
+            "colorSpace": "Linear",
+            "physicalSize": "0.25x0.25",
+            "resolution": "4096x4096",
+            "mimeType": "image/jpeg",
+            "bitDepth": 8,
+            "uri": "qjbth2_4K_Opacity.jpg"
+        }
+    ],
+    "texelDensity": 16384,
+    "physicalSize": "0.25x0.25",
+    "displacementScale": 0.237419,
+    "displacementBias": 0.465167,
+    "displacementCalibrationAccuracy": 0.988164,
+    "process_date": "2024-04-18 11:22:36",
+    "texture_type": "basic",
+    "highest_available_res": 4096,
+    "models": [],
+    "semanticTags": {
+        "city": [],
+        "theme": [
+            "healthy",
+            " growing",
+            "nordic",
+            "woodland",
+            "grassy banks",
+            "trees",
+            "logs",
+            "damp"
+        ],
+        "name": "Moss",
+        "subject_matter": "nature",
+        "color": [
+            "white"
+        ],
+        "industry": [
+            "archviz",
+            "games",
+            "VFX"
+        ],
+        "contains": [
+            "moss",
+            "lichen"
+        ],
+        "maxSize": 0.25,
+        "locations": {
+            "Global": {
+                "Global": {}
+            }
+        },
+        "environment": [
+            "taiga biome",
+            "tundra biome",
+            "forest biome"
+        ],
+        "state": [
+            "old",
+            "damaged"
+        ],
+        "minSize": 0.25,
+        "architectural_style": {},
+        "interior_exterior": [],
+        "resolution": 4096,
+        "asset_type": "atlas",
+        "orientation": []
+    },
+    "assetCategories": {
+        "atlas": {
+            "moss": {}
+        }
+    },
+    "pack": null,
+    "comp_version": 1
+}
