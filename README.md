@@ -4,6 +4,7 @@ A Houdini tool to create moss foliage from atlas texture for Unreal Engine.
 
 ## Features
 
+- Automatically cuts the atlas texture and scatters it on the surface as unreal foliage.
 - Automatically finds and sets texture maps for Opacity, Roughness, and BaseColor.
 - Configures the FBX export node with the appropriate file path.
 
